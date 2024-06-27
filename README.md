@@ -34,4 +34,3 @@ This project is a YouTube clone built using Flutter and Supabase, showcasing bas
 
 Find the project repository on GitHub: https://github.com/mridularaul/youtube_clone
 
-![Screenshot_2024-06-27-23-22-56-74_4dbd084096f8b7e8ed8cd687837e1bf8.jpg](..%2F..%2FDesktop%2FMridula%2Fse%2FScreenshot_2024-06-27-23-22-56-74_4dbd084096f8b7e8ed8cd687837e1bf8.jpg)
