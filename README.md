@@ -30,7 +30,4 @@ This project is a YouTube clone built using Flutter and Supabase, showcasing bas
     - Users can view their profile information, including username and profile photo.
     - Provides functionality to update the profile photo by uploading images from the device gallery.
 
-## GitHub Repository
-
-Find the project repository on GitHub: https://github.com/mridularaul/youtube_clone
 
